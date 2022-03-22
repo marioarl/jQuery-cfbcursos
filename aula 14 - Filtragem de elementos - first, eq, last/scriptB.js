@@ -1,0 +1,1 @@
+$('p').eq(2).css({'border': '1px solid #f00' , 'background-color': '#aaf'}) //Onde o parametro dentro do metodo eq() será o numero do indice do elemento
