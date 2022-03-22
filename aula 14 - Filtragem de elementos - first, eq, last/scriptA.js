@@ -1,0 +1,1 @@
+$('p').last().css({'border': '1px solid #f00' , 'background-color': '#afa'})
